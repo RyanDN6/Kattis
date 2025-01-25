@@ -1,0 +1,4 @@
+john doe:[dog:name,cat:othername,cat:doe]
+doe jane:[cat:jeffery,dog:joe,cat:stan]
+joe smith:[dog:smith,cat:name,cat:cat]
+test case:[horse:cathal,dog:simba,egrjl:egkjer]
